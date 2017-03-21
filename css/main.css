@@ -1,0 +1,30 @@
+body {
+  background-image: url(../img/Math.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+	text-align:center;
+	font-size:50px;
+  text-decoration: underline;;
+}
+
+.form-group input {
+  background-color: #beee02;
+}
+.correct {
+	color:green;
+  text-decoration: underline;
+}
+
+.incorrect {
+	color:red;
+  text-decoration: underline;
+}
+
+h1.correct, h1.incorrect {
+	width:250px;
+  font-size: 50px;
+  font-style: italic;
+}
